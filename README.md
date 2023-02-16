@@ -6,3 +6,9 @@ Esercizi su Postman
 
 ## Giorno 2
 Rest API con SpringBoot
+
+## Giorno 3
+Rest API con SpringBoot JPA
+
+## Giorno 4
+Spring Security
